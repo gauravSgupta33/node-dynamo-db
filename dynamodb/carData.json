@@ -1,0 +1,16 @@
+[
+  { "id": 1,
+    "type" : "Automatic",
+    "name" : "Toyota Accord",
+    "manufacturer" : "Toyota",
+    "fuel_type" : "Petrol",
+    "description" : "A smooth ride with comfort"
+  },
+  { "id": 2,
+    "type" : "Manual",
+    "name" : "Volkswagen Polo",
+    "manufacturer" : "Volkswagen",
+    "fuel_type" : "Petrol",
+    "description" : "Good Value and compact"
+  }
+]
